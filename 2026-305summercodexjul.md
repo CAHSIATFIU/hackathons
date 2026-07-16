@@ -100,8 +100,8 @@ Lunch will be provided during the event.
 
 # Hackathon Resources
 
-Participants may have access to the resources:
-- Free Courses / Bootcamps, specialty tracks, and Crunch Labs — open-source and community-built. 
+Participants may have access to the resources below with the One Stop Form registration:
+- [Free Courses / Bootcamps, specialty tracks, and Crunch Labs — open-source and community-built](https://codecrunchglobal.vercel.app/courses) 
 
 - [Member Perks - Discounts, credits, swag, and event perks through OneStop Portal](https://hackuniversity.vercel.app/membership-and-event-perks)
 - [Resources & Opportunities - Tools, jobs, programs, scholarships, and community opportunities](https://hackuniversity.vercel.app/member-resources-and-opportunities)

@@ -98,6 +98,21 @@ Lunch will be provided during the event.
 
 ---
 
+# Hackathon Resources
+
+Participants may have access to the resources:
+- Free Courses / Bootcamps, specialty tracks, and Crunch Labs — open-source and community-built. 
+
+- Member Perks - Discounts, credits, swag, and event perks through OneStop Portal
+- Resources & Opportunities - Tools, jobs, programs, scholarships, and community opportunities
+- GDG AT FIU [External] Google Skills | google-skills-guide
+
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/124537281/622421370-348897f5-7659-486a-9d57-a6e82400ca99.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260716T025931Z&X-Amz-Expires=300&X-Amz-Signature=8fe5878be9d03d9295e7705b7d8f60ecf648015aa3fafd7d841ab24078102a4e&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" alt="305 SummerCodex Flyer" width="300">
+</p>
+
+---
+
 # What You Can Build
 
 Participants may build projects in areas such as:

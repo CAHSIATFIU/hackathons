@@ -62,19 +62,19 @@ Your goal is to create a working prototype that solves a real problem or improve
 | Time | Activity |
 |---|---|
 | 8:00 AM – 8:30 AM | Check-in, breakfast, networking, and team setup |
-| 8:30 AM – 9:00 AM | Opening ceremony, welcome remarks, hosted by recognition, collaboration partners, event overview, and hackathon rules |
-| 9:00 AM – 9:30 AM | Build with Gemma intro: what to build, how to use Gemma, and project examples |
-| 9:30 AM – 10:00 AM | Team formation, idea brainstorming, and choosing project tracks |
-| 10:00 AM – 12:00 PM | Hacking Session 1: project setup, Gemma integration, repo setup, and first prototype |
-| 12:00 PM – 1:00 PM | Lunch break and mentor check-ins |
-| 1:00 PM – 2:00 PM | Mini workshop: Kaggle Writeup, demo requirements, and judging rubric |
-| 2:00 PM – 4:00 PM | Hacking Session 2: build, test, improve, and prepare demo |
-| 4:00 PM – 5:00 PM | Submission sprint: Kaggle Writeup, working demo, and public code repository |
-| 5:00 PM – 5:30 PM | Dinner break and final project polish |
-| 5:30 PM – 6:30 PM | Project showcase and team demos |
-| 6:30 PM – 7:15 PM | Judging and finalist review |
-| 7:15 PM – 7:45 PM | Winners announcement, certificates, prizes, and closing remarks |
-| 7:45 PM – 8:00 PM | Group photos, networking, cleanup, and next steps |
+| 8:30 AM – 9:00 AM | Opening ceremony, welcome remarks, event overview, agenda, and event rules |
+| 9:00 AM – 9:30 AM | Build with Gemma introduction, AI capabilities, and project examples |
+| 9:30 AM – 11:00 AM | Workshop #1: Hands-on technical workshop |
+| 11:00 AM – 11:30 AM | Networking and coffee break |
+| 11:30 AM – 1:00 PM | Workshop #2: Hands-on technical workshop |
+| 1:00 PM – 2:00 PM | Lunch break and networking |
+| 2:00 PM – 3:30 PM | Workshop #3: Hands-on technical workshop |
+| 3:30 PM – 4:00 PM | Networking and coffee break |
+| 4:00 PM – 5:30 PM | Workshop #4: Hands-on technical workshop |
+| 5:30 PM – 6:00 PM | Project preparation and demo setup |
+| 6:00 PM – 7:00 PM | Project showcase and team demos |
+| 7:00 PM – 7:30 PM | Judging and finalist review |
+| 7:30 PM – 8:00 PM | Closing ceremony, awards, certificates, and group photo |
 
 ---
 
